@@ -1,4 +1,4 @@
-# Buildin a Microbial Foods MAG dataset and a Microbial foods gene catalog
+# Building a Microbial Foods MAG dataset and a Microbial foods gene catalog
 Here we are gathering code and documentation to build a microbial foods MAG dataset and a microbial foods gene catalog
 
 We are uptdating documentation about all the datasets and samples considered. 
