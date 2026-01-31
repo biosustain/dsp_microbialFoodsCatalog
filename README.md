@@ -24,7 +24,9 @@ Data included:
 
 **diversity results** : plots and tables created by the R script
 
+## Gene clustering statistics
 
+**gene_clustering_stats.py**: python script for calculating gene redusancy statistics after clustering
 
 
 
@@ -38,6 +40,7 @@ Useful for managing outputs from multi-step pipelines.
 **tag_mags.sh**: Shell script used to add standardized identifiers (e.g. sample or batch tags) to MAG filenames.
 This ensures consistent naming across downstream analyses and plots.
 
+**NOTE** : some files are available upon request
 **rename_headers.sh** Shell script used to standardize FASTA headers for MAGs or gene sequences.
 This step is critical for:
 	•	Avoiding header-related issues in downstream tools
